@@ -167,7 +167,6 @@ document.addEventListener("DOMContentLoaded", function() {
 		  	projectTitleElem.innerText = "Project Renders:";
 		}
 
-		/* Create thumbnails for matching category, or all */
 		for (let i = 0; i < portfolioCollection.length; i++) {
 			if (urlSection == "" || urlSection == null){
 				if (portfolioCollection[i]["animation"].length >= 1) {
@@ -176,7 +175,9 @@ document.addEventListener("DOMContentLoaded", function() {
 				createRenderPreview(portfolioCollection[i]);
 			}
 			else if (urlSection == "animations") {
-				createAnimationPreview(portfolioCollection[i]);
+				if (portfolioCollection[i]["animation"].length >= 1) {
+					createAnimationPreview(portfolioCollection[i]);
+				}
 			}
 			else if (urlSection == "renders") {
 				createRenderPreview(portfolioCollection[i]);
