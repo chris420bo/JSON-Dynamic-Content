@@ -86,7 +86,7 @@ let portfolioCollection = [
 	{
 		"id" : "bat",
 		"itemTitle" : "Batarang Collection",
-		"description" : "This is a Medieval Style Sword that I modeled in Blender. I based the model off of a fantacy reference image I found online. It had a really nice grain detail on the steel, wrapping on the handle, and a sort of magical glow eminating from the edge.",
+		"description" : "These are a collection of different batarangs that I modeled in Blender. I based the model off of batarangs from different versions of Batman and chose to make four of my favorites.",
 		"imageArray" : ["3D Portfolio/Renders/Batarang Renders/Batarang (Archam Wall).png",
 						"3D Portfolio/Renders/Batarang Renders/Batarang (Beyond Wall).png",
 						"3D Portfolio/Renders/Batarang Renders/Batarang (Dark Night Wall).png",
@@ -102,7 +102,7 @@ let portfolioCollection = [
 	{
 		"id" : "x-wing",
 		"itemTitle" : "Low Polly X-Wing Fighter",
-		"description" : "This is a Medieval Style Sword that I modeled in Blender. I based the model off of a fantacy reference image I found online. It had a really nice grain detail on the steel, wrapping on the handle, and a sort of magical glow eminating from the edge.",
+		"description" : "This is a low polly X-Wing Starfighter that I modeled in Blender. I based the model off of my absolute favorite Star Wars spaceship and since it's very detailed, I used this as an opportunity to try low poly modeling.",
 		"imageArray" : ["3D Portfolio/Renders/X-Wing Renders/X-Wing (Landed Final).png",
 						"3D Portfolio/Renders/X-Wing Renders/X-Wing (Landed w_R2).png",
 						"3D Portfolio/Renders/X-Wing Renders/X-Wing and TIE (Square).png",
@@ -120,7 +120,7 @@ let portfolioCollection = [
 	{
 		"id" : "lightsaber",
 		"itemTitle" : "Luke's Lightsaber (ROTJ)",
-		"description" : "This is a Medieval Style Sword that I modeled in Blender. I based the model off of a fantacy reference image I found online. It had a really nice grain detail on the steel, wrapping on the handle, and a sort of magical glow eminating from the edge.",
+		"description" : "This is Luke's Lightsaber from Return of the Jedi that I modeled in Blender. I based the model off of Luke's lightsaber from my all time favorite Star Wars movie! I love the design of the hilt and the iconic look of the glowing green blade.",
 		"imageArray" : ["3D Portfolio/Renders/ROTJ Lightsaber Renders/ROTJ Lightsaber (Eevee).png",
 						"3D Portfolio/Renders/ROTJ Lightsaber Renders/ROTJ Lightsaber (Second).png"],
 		"descriptArray" : ["Fully Activated Lightsaber",
@@ -132,7 +132,7 @@ let portfolioCollection = [
 	{
 		"id" : "jar",
 		"itemTitle" : "Jam Session Jam Jar",
-		"description" : "This is a Medieval Style Sword that I modeled in Blender. I based the model off of a fantacy reference image I found online. It had a really nice grain detail on the steel, wrapping on the handle, and a sort of magical glow eminating from the edge.",
+		"description" : "This is a jar of jam that I modeled in Blender. I based the model off of a jar of jam I had at home and then created the logo in Adobe Illustrator. This was my first project messing around with logo design.",
 		"imageArray" : ["3D Portfolio/Renders/Jam Session Jar/Jam1.jpg",
 						"3D Portfolio/Renders/Jam Session Jar/Logo.jpg"],
 		"descriptArray" : ["Jam Session Sample Jar",
